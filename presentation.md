@@ -19,6 +19,6 @@
 ##실행영상
 버거동작영상 : https://github.com/NooriDoori/NooriDoori/assets/112747810/8227dbb2-50b3-4c70-b19e-dd057f9c5a3c
 버거를 조종하여 2D맵을 만드는 영상: https://github.com/NooriDoori/NooriDoori/assets/112747810/d41d63a4-17c7-467a-a392-eaa7f1d7659c
-지정한 위치로 이동하는 버거 : 
+지정한 위치로 이동하는 버거 : https://github.com/NooriDoori/NooriDoori/assets/112747810/748e8975-835c-44a4-aac0-066d229df174
 
 ## 앞으로의 게획 : 필요한 센서를 찾고 가격 비교 후 구매, 추가적인 상의 후 추가할 만한 것들을 탐색
